@@ -37,10 +37,10 @@ En este fragmento de se manda a llamar la funcion disminuye y para mandar a llam
 ## Funcion  Aumenta en 1 al contador (aumentar) y disminuye en 1 al contador (disminuir)
 Son funciones diferentes que hacen una funcion similar, en estas funciones se configuran los puertos de salida (leds) dependiendo del valor del contador 
 
-Se tiene que respaldar el argumento que esta mandando la funcion que esta llamando, es el primer paso despues de calcular el prologo
+Se tiene que respaldar el argumento que esta mandando la funcion que esta llamando, es el primer paso despues de calcular el prologo, en este caso lo estamos respaldando en r7+4
 ```asm
         /*Se respalda el argumento n*/
-        str     r0, [r7, #24]
+        str     r0, [r7, #4]
 ```
 
 

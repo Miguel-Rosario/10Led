@@ -37,4 +37,11 @@ En este fragmento de se manda a llamar la funcion disminuye y para mandar a llam
 ## Funcion  Aumenta en 1 al contador (aumentar) y disminuye en 1 al contador (disminuir)
 Son funciones diferentes que hacen una funcion similar, en estas funciones se configuran los puertos de salida (leds) dependiendo del valor del contador 
 
+## Diagrama de Hardware
+Configutracion de pin
+
+A0:A9 Input (led)
+
+B0,B1 Output (boton)
+![arm4 drawio (2)](https://github.com/Miguel-Rosario/10Led/assets/126648916/e587deef-19e2-4f6a-89a6-6d110a0ed9f7)
 

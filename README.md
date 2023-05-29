@@ -56,6 +56,8 @@ B0,B1 Output (boton)
 ![Captura desde 2023-05-29 13-17-16](https://github.com/Miguel-Rosario/10Led/assets/126648916/a46f03b5-e238-4685-9bdc-6dd8e92143e4)
 ![Captura desde 2023-05-29 13-17-55](https://github.com/Miguel-Rosario/10Led/assets/126648916/0ac66c46-7fc0-4e39-b51a-8ba255fe75d1)
 ![Captura desde 2023-05-29 13-18-02](https://github.com/Miguel-Rosario/10Led/assets/126648916/ffe6c594-820c-42bd-aeb7-abfb432f3b2f)
+![Captura desde 2023-05-29 13-33-14](https://github.com/Miguel-Rosario/10Led/assets/126648916/5229c77a-2390-47cc-8a47-16bf260cb109)
+
 
 
 

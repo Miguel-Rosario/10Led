@@ -43,7 +43,12 @@ Se tiene que respaldar el argumento que esta mandando la funcion que esta llaman
         str     r0, [r7, #4]
 ```
 
+## compilacion del proyecto 
+1.- Ensambla el contenido del archivo blink.s mediante la ejecución del comando arm-none-eabi-as blink.s -o blink.o
 
+2.- Construye un objeto binario a partir del objeto blink.o mediante el comando arm-none-eabi-objcopy -O binary blink.o blink.bin
+
+3.- Escribe el código máquina almacenado en el archivo blink.bin en la memoria flash del µC mediante el comando st-flash write 'blink.bin' 0x8000000
 ## Diagrama de Hardware
 Configutracion de pin
 
